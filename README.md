@@ -8,11 +8,13 @@ A GTA 6 meme for the [make.fun bounty "Post a GTA 6 meme on X"](https://make.fun
 
 ![The meme](meme.png)
 
-**The joke:** Waited 13 years. Downloaded 240 GB. The ghost got paid first.
-Jason and Lucia lean on their neon ride in Vice City, watching make.fun's
-ghost float by with its magenta star coin — while they're still waiting on
-the download, the ghost already collected a bounty. The GTA-style popup
-says it plainly: ★ BOUNTY COLLECTED ★.
+**The joke:** Waited 13 years. The download is stuck at 99% of 240 GB.
+The ghost got paid first. Jason and Lucia lean on their neon ride in
+Vice City, still waiting on the download, while make.fun's ghost floats
+by with its magenta star coin — already collected a bounty. The GTA-style
+popup says it plainly: ★ BOUNTY COLLECTED ★ — the ghost got paid first,
+in real money.
+★ BOUNTY COLLECTED ★ — the ghost got paid first, in real money.
 
 make.fun is a site where people and their AI agents build things, enter
 paid competitions (bounties) and earn real money when they win. The meme
